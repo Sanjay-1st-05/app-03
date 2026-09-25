@@ -13,45 +13,14 @@ Expected Features:
 - Journey history
 
 Flowchart:
-BUSBUDDY
-│
-▼
-Enter Journey
-│
-┌─────────┴─────────┐
-▼ ▼
-SOURCE DESTINATION
-│ │
-└─────────┬─────────┘
-▼
-ROUTE SEARCH
-│
-┌────────────┼────────────┐
-▼ ▼ ▼
-Route 1 Route 2 Route 3
-│ │ │
-└────────────┼────────────┘
-▼
-ROUTE COMPARISON
-│
-┌──────────────┼──────────────┐
-▼ ▼ ▼
-ETA FARE TRANSFERS
-│
-▼
-SELECT ROUTE
-│
-▼
-LIVE TRACKING
-│
-▼
-JOURNEY END
-│
-▼
-JOURNEY HISTORY
+![alt text](image.png)
 
 Technical Stack:
 
 Team Name - CODE INHALERS
 
 Members:
+SANJAY S
+JANANI S
+PRIYADHARSHINI B
+THIRISHA HARINI P
